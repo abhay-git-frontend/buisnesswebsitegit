@@ -4,7 +4,6 @@
 ## Introduction
 Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
  
-In this course, you will learn how to:
 - Use CSS variables
 - Import CSS files into other CSS files
 - Use flex and position properties in CSS
@@ -12,7 +11,3 @@ In this course, you will learn how to:
 - Use the BEM naming method
 - Maintain a well-organized file and folder structure
 -  Embrace the principles of writing clean code
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
